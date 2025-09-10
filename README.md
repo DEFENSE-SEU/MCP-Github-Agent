@@ -2,7 +2,10 @@
 
 ## 📢 Important Notice
 
-This repository has been moved to a new location. Please follow our new repository:
+This repository is the official implementation for our paper: 
+**Code2MCP: A Multi-Agent Framework for Automated Transformation of Code Repositories into Model Context Protocol Services** [https://arxiv.org/pdf/2509.05941]
+
+Please follow our new repository:
 
 **New Repository:** https://github.com/DEFENSE-SEU/Code2MCP
 
